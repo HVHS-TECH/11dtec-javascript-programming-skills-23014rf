@@ -1,1 +1,5 @@
-console.log("My name is Roman Ramahan faulk")
+/*********************
+Task 2
+Roman
+01/05/2025
+ *******************/
