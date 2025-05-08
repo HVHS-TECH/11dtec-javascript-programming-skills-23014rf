@@ -6,16 +6,17 @@ Roman
 
 console.log(  "Running T2-variables.js"  );
 
- /********************/
+//variables
 
-
- 
-/******variables******/
-letUserMoney =0
-letPocketMoney =0
-letUsername = RomanFaulk;
+letPocketMoney=0
+letUsername=RomanFaulk;
 /**********************
  
+//maincode
 
 
 **********************/
+console.log("")
+
+
+/*********************
