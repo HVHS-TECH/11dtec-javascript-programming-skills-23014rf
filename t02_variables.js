@@ -10,7 +10,7 @@ console.log(  "Running T2-variables.js"  );
 //variables
 let UserName = "Ben Britton";
 let UserAge = "100"
-let PocketMoney = "14"
+let PocketMoney = "23"
 let CurrentYear = "2025"
 
 /**********************
@@ -19,7 +19,8 @@ let CurrentYear = "2025"
 
 
 /**********************/
-console.log("Hi RomanFaulk , As of 2025 you are 15 years old , you have 1 dollars");
+console.log("You have ", PocketMoney, "dollars");
+    // , As of 2025 you are 15 years old , you have 1 dollars");
 
 
 
