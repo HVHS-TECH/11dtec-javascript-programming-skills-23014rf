@@ -9,8 +9,8 @@ console.log(  "Running T2-variables.js"  );
 
 //variables
 
-letPocketMoney=0
-letUsername=RomanFaulk;
+let PocketMoney = 0
+let Username = "RomanFaulk";
 /**********************
  
 //maincode
