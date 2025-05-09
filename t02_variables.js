@@ -20,7 +20,7 @@ let CurrentYear = "2025"
 
 /**********************/
 console.log("Hi", UserName,);
-console.log("As of", CurrentYear)
+console.log("As of", CurrentYear, "you are", UserAge,"Years old")
 console.log("You have ", PocketMoney, "dollars");
     // , As of 2025 you are 15 years old , you have 1 dollars");
 
