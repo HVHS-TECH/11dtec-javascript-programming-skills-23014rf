@@ -16,7 +16,7 @@ letUsername=RomanFaulk;
 
 
 **********************/
-console.log("")
+console.log(" ")
 
 
 /*********************
