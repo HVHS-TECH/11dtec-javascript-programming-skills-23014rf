@@ -8,9 +8,11 @@ learning about variables
 console.log(  "Running T2-variables.js"  );
 
 //variables
-
-let PocketMoney = 0
 let Username = "RomanFaulk";
+let UserAge = "15"
+let PocketMoney = "1"
+let CurrentYear = "2025"
+
 /**********************
  
 //maincode
