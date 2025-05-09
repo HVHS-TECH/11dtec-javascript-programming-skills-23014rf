@@ -1,7 +1,7 @@
 /**********************
 Task 2 bariables
 Roman
-01/05/2025
+05/09/2025
 learning about variables
 **********************/
 
@@ -19,7 +19,12 @@ let CurrentYear = "2025"
 
 
 /**********************/
-console.log(" ")
+console.log(RomanFaulk)
+console.log(UserAge)
+console.log(PocketMoney)
+console.log(CurrentYear)
+
+
 
 
 /*********************/
