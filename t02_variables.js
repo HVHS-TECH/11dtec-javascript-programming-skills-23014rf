@@ -19,10 +19,8 @@ let CurrentYear = "2025"
 
 
 /**********************/
-console.log(UserName)
-console.log(UserAge)
-console.log(PocketMoney)
-console.log(CurrentYear)
+console.log(UserName , UserAge , PocketMoney , CurrentYear);
+
 
 
 
