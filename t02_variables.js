@@ -19,7 +19,7 @@ let CurrentYear = "2025"
 
 
 /**********************/
-console.log(UserName , UserAge , PocketMoney , CurrentYear);
+console.log("Hi RomanFaulk , As of 2025 you are 15 years old , you have 1 dollars");
 
 
 
