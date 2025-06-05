@@ -16,7 +16,6 @@ alert
 /**********************/
 
  let cars = ["Nissan", "Toyota", "Mazda", "Honda"]
-
 /**********************/
 Prompt("On a scale 0-3 how much do you like cars")
 
