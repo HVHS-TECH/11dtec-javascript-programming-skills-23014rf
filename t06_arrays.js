@@ -19,6 +19,7 @@ alert
 
 /**********************/
 Prompt("On a scale 0-3 how much do you like cars")
+prompt("What is your favorite car brand out of Nissan, Toyota, Mazda and Honda")
 prompt("Whats your name \nEnter here");
 Alert("Hi", UserName,);
 prompt("How old are you \Enter here");
