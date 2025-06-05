@@ -22,7 +22,7 @@ Prompt("On a scale 0-3 how much do you like cars")
 
 prompt("Whats your name \nEnter here");
 
-Alert("Hi", UserName,);
+Alert("Hi", UserName);
 Alert("I predict you were born in 2009")
 Alert("Your pocketmoney is", userMoney, "dollars")
 Alert("Sorry you CAN'T afford a chocolate bar")
