@@ -27,6 +27,6 @@ Alert("I predict you were born in 2009")
 Alert("Your pocketmoney is", userMoney, "dollars")
 Alert("Sorry you CAN'T afford a chocolate bar")
 
-roadhog, genji, bastion, ana, mercy
+
 
 /*********************/
