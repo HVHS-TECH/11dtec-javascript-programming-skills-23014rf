@@ -2,7 +2,7 @@
 /***************
 Roman Faulk 
 
-Task 18
+Task 8
 
 Introduction to For loop
 ***************/
