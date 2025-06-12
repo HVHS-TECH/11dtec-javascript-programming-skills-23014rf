@@ -21,9 +21,9 @@ alert
 prompt("Whats your name \nEnter here");
 alert("Hi", UserName);
 prompt("How old are you \Enter her");
-Alert("you were born in", CurrentYear)
+alert("you were born in", CurrentYear)
 prompt("How much moeney do you have \Enter here")
-Alert("You have", PocketMoney,"dollars")
+alert("You have", PocketMoney,"dollars")
 
 
 console.log("You have ", PocketMoney, "dollars");
