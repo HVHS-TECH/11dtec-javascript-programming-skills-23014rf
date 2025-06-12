@@ -12,7 +12,6 @@ let UserName = "Roman Faulk";
 let UserAge = 16
 let PocketMoney = 1
 let CurrentYear = 2025
-alert 
 /**********************
  
 //maincode
