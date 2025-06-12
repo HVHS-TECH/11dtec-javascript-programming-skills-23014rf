@@ -19,7 +19,7 @@ alert
 
 **********************/
 prompt("Whats your name \nEnter here");
-Alert("Hi", UserName);
+alert("Hi", UserName);
 prompt("How old are you \Enter her");
 Alert("you were born in", CurrentYear)
 prompt("How much moeney do you have \Enter here")
