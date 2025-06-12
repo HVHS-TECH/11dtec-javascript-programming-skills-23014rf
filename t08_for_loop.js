@@ -14,7 +14,6 @@ console.log(  "Running T1-intro.js"  );
 
 /**************/
 
-//mainCode
 
 
 
