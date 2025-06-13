@@ -17,7 +17,7 @@ let CurrentYear = 2025
 //maincode
 
 **********************/
-var userName = alert("what's your name?","Bb");
+var userName = alert("what's your name?");
 alert("Hi" + UserName);
 prompt("How old are you \Enter her");
 alert("you were born in" + CurrentYear)
