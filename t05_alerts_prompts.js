@@ -19,9 +19,9 @@ let CurrentYear = 2025
 **********************/
 UserName = prompt("what's your name?");
 alert("Hi" + UserName);
-prompt("How old are you \Enter her");
+UserName = prompt("How old are you \Enter her");
 alert("you were born in" + CurrentYear)
-prompt("How much moeney do you have \Enter here")
+UserName = prompt("How much moeney do you have \Enter here")
 alert("You have" + PocketMoney + "dollars")
 
 
