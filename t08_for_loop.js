@@ -19,7 +19,7 @@ console.log(  "Running T8-for_loop.js"  );
 
 //Loop from 1 to 5
 console.log("Starting Loop");
-for (count = 1; count< 5; count ++) {
+for (coun t = 1; count< 5; count ++) {
 prompt("Pick a number");
 Prompt("pick a number");
 Prompt("Pcik a number");
