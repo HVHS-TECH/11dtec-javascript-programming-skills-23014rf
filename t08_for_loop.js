@@ -25,7 +25,7 @@ Prompt("pick a number");
 Prompt("Pcik a number");
 Prompt("Pcik a number");
 Prompt("Pcik a number");
-Alert("number")
+alert("number")
     console.log("Current Count: " + count);
 }
 
