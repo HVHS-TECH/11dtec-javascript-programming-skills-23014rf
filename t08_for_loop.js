@@ -7,7 +7,7 @@ Task 8
 Introduction to For loop
 ***************/
 
-console.log(  "Running T1-intro.js"  );
+console.log(  "Running T8-for_loop.js"  );
 
 //variables
 

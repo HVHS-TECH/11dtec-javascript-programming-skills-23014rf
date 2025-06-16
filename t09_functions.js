@@ -7,7 +7,7 @@ Task 9
 Introduction to Functions
 ***************/
 
-console.log(  "Running T1-intro.js"  );
+console.log(  "Running T9-functions.js"  );
 
 //variables
 
