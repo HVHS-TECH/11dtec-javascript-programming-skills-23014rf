@@ -5,7 +5,7 @@ Roman
 learning about if and else
 **********************/
 
-console.log(  "running T2-variables.js"  );
+console.log(  "running T7-if.js"  );
 
 //variables
 let userName = "Roman Faulk";

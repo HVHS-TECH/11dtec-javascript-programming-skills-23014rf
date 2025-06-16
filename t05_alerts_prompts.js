@@ -5,7 +5,7 @@ Roman
 learning about variables
 **********************/
 
-console.log(  "running T2-variables.js"  );
+console.log(  "running T5-alerts_prompts.js"  );
 
 //variables
 let UserName = "Roman Faulk";

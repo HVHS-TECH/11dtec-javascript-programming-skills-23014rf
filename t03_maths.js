@@ -5,7 +5,7 @@ Roman
 learning about maths
 **********************/
 
-console.log(  "Running T2-variables.js"  );
+console.log(  "Running T3-maths.js"  );
 
 //variables
 let UserName = "Roman Faulk";

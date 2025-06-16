@@ -5,7 +5,7 @@ Roman
 learning about Arrays
 **********************/
 
-console.log(  "running T2-variables.js"  );
+console.log(  "running 6-array.js"  );
 
 //variables
 let userName = "Roman Faulk";
